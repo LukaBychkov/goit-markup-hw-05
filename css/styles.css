@@ -577,6 +577,10 @@ p {
 .btn.btn-footer:focus {
   background-color: #31d0aa;
 }
+
+.footer-sub-wrap {
+  margin-right: 159px;
+}
 /* #endregion */
 
 /* #region modal */
