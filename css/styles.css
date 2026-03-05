@@ -480,7 +480,7 @@ p {
 }
 
 .footer-socials {
-  margin-right: 80px;
+  margin-right: auto;
 }
 
 .social-title {
@@ -579,7 +579,7 @@ p {
 }
 
 .footer-sub-wrap {
-  margin-right: 159px;
+  margin-right: 0;
 }
 /* #endregion */
 
