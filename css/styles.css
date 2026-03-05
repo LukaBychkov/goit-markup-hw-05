@@ -568,7 +568,6 @@ p {
   width: 165px;
   height: 40px;
   gap: 16px;
-  margin-left: auto;
 }
 .fot-btn-icon {
   fill: #fff;
@@ -694,7 +693,7 @@ p {
   color: #8e8f99;
   font-weight: 400;
   font-size: 12px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.04em;
 }
 .feedback-field {
@@ -732,7 +731,7 @@ p {
   width: 100%;
 
   font-size: 12px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.04em;
 
   outline: none;
@@ -787,10 +786,12 @@ p {
 }
 
 .feedback-inp:checked + .feedback-togl > .feedback-togl-icon {
+  fill: #f4f4fd;
   opacity: 1;
 }
 
 .feedback-togl-icon {
+  fill: transparent;
   opacity: 0;
 }
 
